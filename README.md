@@ -3,6 +3,7 @@ This project analyzes **negative profit trends** in Unicorn Company's e-commerce
 
 ## My Contribution
 My role in this project was multifaceted. I actively participated in the initial database exploration alongside the team, gaining a foundational understanding of the data. I provided valuable support in writing and refining SQL queries to extract and manipulate the necessary information for our analysis. While my direct contributions to the final Tableau dashboard involved primarily reviewing and implementing minor adjustments, I was deeply involved in shaping the project's narrative through the final report and recommendations. I took ownership of the video presentation, outlining the script for the group and taking the lead in its final production under a tight deadline.
+Huge thanks to the whole team!
 
 ## Data & Methodology  
 - **Data Source**: Sales and transaction data from 2015-2018.  
